@@ -1,0 +1,19 @@
+{
+  "name": "testpkg",
+  "version": "1.0.0",
+  "description": "desc 1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url" : "https://github.com/appy9/testpkg"
+  },
+  "author": "Apoorva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appy9/testpkg"
+  },
+  "keywords": [
+    "temp"
+  ],
+  "scripts": {}
+}
