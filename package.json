@@ -1,11 +1,11 @@
 {
   "name": "testpkgappy",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "desc 1",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url" : "https://github.com/appy9/testpkg"
+    "url": "https://github.com/appy9/testpkg"
   },
   "author": "Apoorva",
   "license": "MIT",
